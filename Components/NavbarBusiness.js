@@ -252,7 +252,7 @@ function NavbarBusiness({ current, setCurrent }) {
               width={300}
               height={150}
               style={{
-                width: "150px",
+                width: "100px",
                 height: "auto",
               }}
               priority
