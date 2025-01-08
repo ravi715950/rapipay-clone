@@ -129,7 +129,7 @@ function Footer() {
                   </li>
                   <li>
                     <Link href="#" className="footerLink">
-                      FAQ's
+                      FAQs
                     </Link>
                   </li>
                   <li>
